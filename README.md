@@ -1,16 +1,13 @@
-## Hi there 👋
+## CHECKERS SUAI 🏁
 
-<!--
-**Qfimf/Qfimf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://github.com/Qfimf/Qfimf/assets/171138297/dd8bb581-de64-42b6-bbcc-8a982ba639b4)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## О проекте
+Checkers SUAI - это шашки, в которые можно играть вдвоём на одном устройстве!
+
+## Технологии
+Язык программирования - C# 
+
+
+Библеотека для графики - Windows.Forms
